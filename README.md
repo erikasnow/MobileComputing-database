@@ -1,0 +1,3 @@
+This folder contains cleaned code for Project 3 where I made an Android app that sends data to a database. The folder also contains a debug apk file for the project, as well as a short video showing a demo of the app. Finally, this folder contains another markdown file designed as a tutorial to complete the extra steps I made after I finished part 1 of the project, another video showing part 2, and a debug apk for part 2.
+
+Things I did for part 2: integrated Project 2 into this project so that now you can take a picture using a 3rd party application, and then save the filepath of the image to the database along with the current temperature and timestamp.
